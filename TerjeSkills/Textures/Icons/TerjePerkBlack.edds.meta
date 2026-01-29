@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{F2BA958CEB539853}@Scripts/TerjeSkills/Textures/Icons/TerjePerk_Black.edds"
+ Author "koma"
+ ChangeDate -908905413
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "TerjePerk_Black.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

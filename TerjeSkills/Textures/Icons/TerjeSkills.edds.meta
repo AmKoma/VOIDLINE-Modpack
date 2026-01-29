@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{88767BAF88CD4A72}@Scripts/TerjeSkills/Textures/Icons/TerjeSkills.png"
+ Author "koma"
+ ChangeDate 1352873019
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "TerjeSkills.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}
