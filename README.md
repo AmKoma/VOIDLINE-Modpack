@@ -66,4 +66,4 @@ See [LICENSE](LICENSE) for full terms.
 
 - **KOMA**
 - **ReDos**
-- **[Terje](https://github.com/TerjeBruoygard)** -- TerjeMod
+- **[Terje](https://github.com/TerjeBruoygard)**
