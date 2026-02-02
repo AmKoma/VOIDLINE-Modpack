@@ -32,5 +32,5 @@ class CfgMods
 
 class CfgVehicles
 {
-	#include "Zombies/DayZInfected.hpp"
+	#include "Zombies\DayZInfected.hpp"
 };
