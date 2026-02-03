@@ -1,9 +1,3 @@
-// *************************************************************************************
-// DayZPlayerCamera1stPerson – PvP Patch
-// - Zoom bleibt funktionsfähig (StdFovUpdate drin)
-// - Breiteres FOV via Multiplikator (statt absolutes FOV zu erzwingen)
-// - Verstärkter Shake ohne in/out-Fehler
-// *************************************************************************************
 modded class DayZPlayerCamera1stPerson extends DayZPlayerCameraBase
 {
 	static const float CONST_UD_MIN = -85.0;

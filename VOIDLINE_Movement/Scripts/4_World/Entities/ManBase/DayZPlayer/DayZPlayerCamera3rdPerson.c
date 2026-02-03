@@ -1,15 +1,3 @@
-// =====================================================================================
-// Modernized 3rd-Person Camera (Patch Only: replaces stock camera classes)
-// Place in: YourMod/scripts/4_World/modern_camera_patch.c
-// Notes:
-// - Keine Ternaries. Verwendet m_pInput.IsRaised() (nicht DayZPlayer.IsRaised()).
-// - Etwas weiter weg als Vanilla; Distanz/Schulter/Höhe werden dynamisch & smooth angepasst.
-// - Kein FP->TP "Push-Out"; Shoulder-Switch smooth; leichter Sprint-Roll.
-// =====================================================================================
-
-// ============================================================================
-// 3rd person base (patched)
-// ============================================================================
 modded class DayZPlayerCamera3rdPerson
 {
 	override void OnUpdate(float pDt, out DayZPlayerCameraResult pOutResult)
