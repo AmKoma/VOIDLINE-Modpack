@@ -65,4 +65,5 @@ See [LICENSE](LICENSE) for full terms.
 ## Credits
 
 - **KOMA** -- Author
+- **Terje** -- Author [TerjeMods](https://github.com/TerjeBruoygard)
 - **ReDos** -- Contributions (Clothes, GearAdjustments, Stringtables)
