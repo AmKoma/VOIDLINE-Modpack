@@ -7,6 +7,15 @@ class CfgPatches
     };
 };
 
+class cfgVehicles
+{
+    class Ammunition_Base;
+    class JebsGuns_Ammo_127x55 : Ammunition_Base
+    {
+        itemSize[] = {1, 2};
+    }
+}
+
 class CfgAmmo
 {
     class Bullet_Base;
